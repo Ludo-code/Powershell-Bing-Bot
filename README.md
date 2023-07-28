@@ -4,8 +4,12 @@ Automated Microsoft Rewards Bot Rewrited in Powershell
 #How to Use
 
 #⚠️Warning⚠️
+  
   Before Use please set the execution policy.
+  
+  
   Launch the following command in Powershell as Admin.
+  
   `Set-ExecutionPolicy RemoteSigned`
 
 1. "Code" and "Download ZIP"
