@@ -5,8 +5,8 @@ Automated Microsoft Rewards Bot Rewrited in Powershell
 
 #⚠️Warning⚠️
   
-  Before Use please set the execution policy.
-  Launch the following command in Powershell as Admin.
+  __**Before Use please set the execution policy.
+  Launch the following command in Powershell as Admin.**__
   
   `Set-ExecutionPolicy RemoteSigned`
 
