@@ -29,10 +29,11 @@ while ($made -lt $total) {
 
     for ($i = $wait; $i -ge 1; $i--) {
         [Console]::SetCursorPosition(0, [Console]::CursorTop)
+        Write-Host (" " * 80) -NoNewline
+        [Console]::SetCursorPosition(0, [Console]::CursorTop)
         Write-Host "$i seconds until next search" -NoNewline
         Start-Sleep -Seconds 1
     }
-    
     Get-Process -Name "msedge" | ForEach-Object { $_.CloseMainWindow() } | Out-Null
 }
 
