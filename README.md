@@ -1,17 +1,14 @@
 # Bing-Bot
 Automated Microsoft Rewards Bot Rewrited in Powershell
 
-#How to Use
-
-#⚠️Warning⚠️
+# ⚠️Warning⚠️
   
   _**Before Use please set the execution policy.
   Launch the following command in Powershell as Admin.**_
   
   `Set-ExecutionPolicy RemoteSigned`
-
-
-
+  
+# How to Use
 
 
 
