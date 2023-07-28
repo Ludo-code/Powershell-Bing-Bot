@@ -33,7 +33,7 @@ while ($made -lt $total) {
         Start-Sleep -Seconds 1
     }
     
-    Get-Process -Name "msedge" | ForEach-Object { $_.CloseMainWindow() }
+    Get-Process -Name "msedge" | ForEach-Object { $_.CloseMainWindow() } | Out-Null
 }
 
 Start-Sleep -Seconds 1
