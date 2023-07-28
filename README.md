@@ -12,10 +12,15 @@ Automated Microsoft Rewards Bot Rewrited in Powershell
 
 
 
-1. "Code" and "Download ZIP"
+1. "Releases" on the right and clique with one that said "Latest"
 
 
-![image](https://github.com/Ludo-code/Powershell-Bing-Bot/assets/56892223/72dba9e1-d7d9-4088-a294-f4371c21b0a2)
+![image](https://github.com/Ludo-code/Powershell-Bing-Bot/assets/56892223/755ff9ae-ac0e-4777-8136-7b7e37c81d9d)
+
+2. Now click on "Source code" and the file will be automaticly downloaded
+
+
+![image](https://github.com/Ludo-code/Powershell-Bing-Bot/assets/56892223/cc144af2-32dc-421b-97e0-480052818e88)
 
 
 
