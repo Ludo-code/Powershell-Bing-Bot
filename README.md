@@ -10,6 +10,8 @@ Automated Microsoft Rewards Bot Rewrited in Powershell
   
   `Set-ExecutionPolicy RemoteSigned`
 
+
+
 1. "Code" and "Download ZIP"
 
 
