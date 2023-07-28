@@ -12,6 +12,9 @@ Automated Microsoft Rewards Bot Rewrited in Powershell
 
 
 
+
+
+
 1. "Code" and "Download ZIP"
 
 
