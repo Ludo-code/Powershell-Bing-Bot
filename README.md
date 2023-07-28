@@ -24,5 +24,5 @@ Automated Microsoft Rewards Bot Rewrited in Powershell
 5. launch start.cmd by double click on it
 
 
-## Bing Bot 1 Auto:
+## Bing Bot 1.x Auto:
 Automatically runs 35 searches Then kills your browser (Uses The New Microsoft Edge), to avoid any problem with possible next update of ms reward, the script use a word list.
