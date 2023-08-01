@@ -1,5 +1,5 @@
 $made = 0
-$total = 3
+$total = 35
 mode con:cols=80 lines=4
 
 switch ($PSUICulture) 
